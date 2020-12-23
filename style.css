@@ -8,9 +8,10 @@
 }
 
 .main{
- font-family: 'Times New Roman', Times, serif;
+  font-family: 'Times New Roman', Times, serif;
   margin: auto;
   font-size: 3vmin; 
   color: black;
   float:left;
+  text-align: justify;
 }
