@@ -12,4 +12,6 @@
   margin: auto;
   font-size: 3vmin; 
   color: black;
+  float:left;
+  text-align:center;
 }
